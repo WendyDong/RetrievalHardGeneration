@@ -1,5 +1,5 @@
 # Image Retrieval with Hard-sample Generation
-This is a toolbox that implements the testing of the approach described in our papers: Image Retrieval with Hard-sample Generation.
+This is a toolbox implements the approach described in our papers: Image Retrieval with Hard-sample Generation.
 ## Dataset
 Reference HDML (https://github.com/wzzheng/HDML) 
 ## Pretrained model
